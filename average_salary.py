@@ -1,6 +1,5 @@
 #1491. Average Salary Excluding the Minimum and Maximum Salary
 
-
 class Solution:
     def average(self, salary: List[int]) -> float:
         min_salary = min(salary)
